@@ -1,4 +1,4 @@
-# Skarlett Download
+# Skarlett Download and Installation
 ### Command line downloads
 - you will need to have wget installed 
 

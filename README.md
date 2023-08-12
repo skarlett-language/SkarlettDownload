@@ -7,7 +7,7 @@
 # All v1.1.0 - uncompiled 
 
 ```
-wget https://github.com/skarlett-language/SkarlettDownload/releases/download/v1.1.0/Skarlett-1.1.0-all-uncompiled.zip && unzip Skarlett-1.1.0-all-uncompiled.zip && cd Skarlett-1.1.0-all-uncompiled && sudo cp ./skarlett ./Skarlett\ Native\ Editor /usr/local/bin
+wget https://github.com/skarlett-language/SkarlettDownload/releases/download/v1.1.0-uncompiled/Skarlett-1.1.0-all-uncompiled.zip && unzip Skarlett-1.1.0-all-uncompiled.zip && cd Skarlett-1.1.0-all-uncompiled && sudo cp ./skarlett ./Skarlett\ Native\ Editor /usr/local/bin
 ```
 
 ---

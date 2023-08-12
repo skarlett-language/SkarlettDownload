@@ -20,7 +20,7 @@ wget https://github.com/skarlett-language/SkarlettDownload/releases/download/v1.
     
 ---
 
-# Linux x86_64
+# Linux amd64 / x86_64
 
 ```
 wget https://github.com/skarlett-language/SkarlettDownload/releases/download/v1.0.1/skarlett_1.0.1-linux-x86_64.tar.gz && tar -xf skarlett_1.0.1-linux-x86_64.tar.gz && cd skarlett_1.0.1-linux-x86_64 && sudo chmod +x ./setup && ./setup

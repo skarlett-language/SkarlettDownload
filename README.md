@@ -1,6 +1,6 @@
 # Skarlett Download and Installation
 ### Command line downloads
-- you will need to have `wget` and `tar`
+- you will need to have `wget` and `tar`or `unzip`
 
 ---
 
@@ -32,4 +32,17 @@ wget https://github.com/skarlett-language/SkarlettDownload/releases/download/v2.
 
 ```
 wget https://github.com/skarlett-language/SkarlettDownload/releases/download/v2.0.0/skarlett-2.0.0_linux-i386.tar.gz && tar -xf skarlett.2.0.0_linux-i386.tar.gz && cd skarlett.2.0.0_linux-i386 && sudo cp ./skarlett /usr/bin
+```
+
+# MacOs Silicon
+
+```
+wget https://github.com/skarlett-language/SkarlettDownload/releases/download/v2.0.0/skarlett-2.0.0_macos-silicon.zip && unzip skarlett-2.0.0_macos-silicon.zip && cd skarlett-2.0.0_macos-silicon.zip && sudo cp ./skarlett /usr/bin
+```
+
+
+# MacOs Intel-based
+
+```
+wget https://github.com/skarlett-language/SkarlettDownload/releases/download/v2.0.0/skarlett-2.0.0_macos-intel.zip && unzip skarlett-2.0.0_macos-intel.zip && cd skarlett-2.0.0_macos-intel.zip && sudo cp ./skarlett /usr/bin
 ```

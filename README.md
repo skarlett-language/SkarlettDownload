@@ -4,10 +4,10 @@
 
 ---
 
-# All v2.0.0 - uncompiled 
+# All v2.0.1 - uncompiled 
 
 ```
-wget https://github.com/skarlett-language/SkarlettDownload/releases/download/v2.0.0/skarlett-2.0.0_all-uncompiled.tar.gz && tar -xf skarlett-2.0.0_all-uncompiled.zip 
+wget https://github.com/skarlett-language/SkarlettDownload/releases/download/v2.0.1/skarlett-2.0.1_all-uncompiled.tar.gz && tar -xf skarlett-2.0.1_all-uncompiled.tar.gz 
 ```
 
 ---

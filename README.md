@@ -7,7 +7,7 @@
 # All v2.0.1 - uncompiled 
 
 ```
-wget https://github.com/skarlett-language/SkarlettDownload/releases/download/v2.0.1/skarlett-2.0.1_all-uncompiled.tar.gz && tar -xf skarlett-2.0.1_all-uncompiled.tar.gz 
+wget https://github.com/skarlett-language/SkarlettDownload/releases/download/v2.1.0/skarlett-v2.1.0_uncompiled.tar && tar -xf skarlett-v2.1.0_uncompiled.tar && cd skarlett-v2.1.0 && bash build.sh && sudo bash install.sh
 ```
 
 ---

@@ -4,7 +4,7 @@
 
 ---
 
-# All v2.0.1 - uncompiled 
+# All v2.2.0 - uncompiled 
 
 ```
 wget https://github.com/skarlett-language/SkarlettDownload/releases/download/v2.2.0/skarlett_uncompiled-2.2.0_linux-all.tar && tar -xf skarlett_uncompiled-2.2.0_linux-all.tar && cd skarlett_uncompiled-2.2.0_linux-all && bash compile.sh && sudo bash install.sh
@@ -12,7 +12,7 @@ wget https://github.com/skarlett-language/SkarlettDownload/releases/download/v2.
 
 ---
 
-# Linux aarch64 / arm64
+# Linux aarch64 / arm64 v2.2.0
 
 ```
 wget https://github.com/skarlett-language/SkarlettDownload/releases/download/v2.2.0/skarlett-2.2.0_linux-arm64.tar && tar -xf skarlett-2.2.0_linux-arm64.tar && cd skarlett-2.2.0_linux-arm64 && sudo bash install.sh
@@ -20,7 +20,7 @@ wget https://github.com/skarlett-language/SkarlettDownload/releases/download/v2.
     
 ---
 
-# Linux amd64 / x86_64
+# Linux amd64 / x86_64 v2.2.0
 
 ```
 wget https://github.com/skarlett-language/SkarlettDownload/releases/download/v2.2.0/skarlett-2.2.0_linux-amd64.tar && tar -xf skarlett-2.2.0_linux-amd64.tar && cd skarlett-2.2.0_linux-amd64 && sudo bash install.sh
